@@ -1,0 +1,51 @@
+body {
+    width: 100%;
+    height: auto;
+    overflow-y: scroll ;
+}
+.caxa {
+    background: #AD0000;
+    position: relative;
+}
+.logo {
+    padding: 50px 20px;
+    font-size: 50px;
+}
+nav ul li {
+    display: inline;
+    margin: 0 50px;
+    font-size: 40px;
+}
+nav ul {
+    right: 0px;
+    text-align: end;
+    margin: -50px 50px;
+    position: absolute;
+}
+.banner {
+    width: 100%;
+
+}
+.balaco {
+    text-align: center;
+    font-size: 50px;
+}
+.balaco1 {
+    text-align: center;
+    font-size: 65px; 
+}
+.caxa1 {
+    background: #AD0000;
+}
+.rissoto {
+    width: 250px;
+    border: #000000 solid 3px;
+    border-radius: 15px;
+}
+header ul li {
+    display: inline;
+}
+header ul {
+    width: 940px;
+    margin: 0 auto;
+}
